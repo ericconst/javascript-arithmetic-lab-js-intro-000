@@ -21,3 +21,5 @@ function increment(n){
 function decrement(n){
   return n-=1
 }
+
+// makeInt()
