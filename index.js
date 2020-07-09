@@ -24,6 +24,6 @@ function decrement(n){
 
 // makeInt()
 function makeInt(a){
-  a===parseInt(a,10)
+  a===parseInt(a)
   return a
 }
